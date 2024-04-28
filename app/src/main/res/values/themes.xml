@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.LensAssignment" parent="android:Theme.Material.Light.DarkActionBar" />
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+
+    <!-- Customize your theme here -->
+    <item name="colorPrimary">#203DE2</item>
+    <item name="colorPrimaryDark">#3147C3</item>
+    <item name="colorOnPrimary">@color/actionBarTextColor</item>
+
+
+    </style>
+</resources>

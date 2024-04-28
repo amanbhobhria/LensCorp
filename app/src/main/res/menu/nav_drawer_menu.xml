@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/miItem2"
+        android:title="Organisation" />
+    <item
+        android:id="@+id/miItem3"
+        android:title="DITS/Panel" />
+    <item
+        android:id="@+id/miItem4"
+        android:title="IRMS " />
+    <item
+        android:id="@+id/miItem5"
+        android:title="Events" />
+    <item
+        android:id="@+id/miItem6"
+        android:title="Seniority" />
+    <item
+        android:id="@+id/miItem7"
+        android:title="Circulars" />
+    <item
+        android:id="@+id/miItem8"
+        android:title="News/Article" />
+    <item
+        android:id="@+id/miItem9"
+        android:title="IRPOBF" />
+
+    <item
+        android:id="@+id/miItem1"
+        android:title="Links" />
+
+
+</menu>

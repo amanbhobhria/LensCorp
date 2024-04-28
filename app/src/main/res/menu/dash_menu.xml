@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bottomNavHome"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item android:id="@+id/bottomNavIrms"
+        android:title="IRMS"
+        android:icon="@drawable/baseline_notifications_24"
+        />
+    <item android:id="@+id/bottomNavEvents"
+        android:title="Events"
+        android:icon="@drawable/baseline_calendar_month_24"
+        />
+    <item android:id="@+id/bottomNavIrpobf"
+        android:title="IRPOBF"
+        android:icon="@drawable/baseline_3p_24"
+/>
+
+
+</menu>
